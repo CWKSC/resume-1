@@ -26,6 +26,8 @@ cd ..
 
 # Download/下载
 
-+ [English simplified version (pdf)](./resume.pdf)
-+ [English full version (pdf)](./resume-elab.pdf)
++ [English one-page version (pdf)](./resume.pdf)
++ [English complete version (pdf)](./resume-elab.pdf)
 + [中文版 (pdf)](./resume-cn.pdf)
+
+中文简历不提供单页版本。
